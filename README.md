@@ -83,8 +83,4 @@ The project can be built with Visual Studio using the included solution (.sln) a
 ## Dependencies
 - Standard C++ libraries
 ## Contributors
-- Project implementation by the Data Structures course team
-
----
-
-*This application was developed as a data structures project to demonstrate the practical implementation of various data structures in a real-world application scenario.*
+- Project implementation by me and rzjaffery
