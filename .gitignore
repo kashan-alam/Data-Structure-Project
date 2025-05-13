@@ -1,0 +1,33 @@
+# Visual Studio settings
+.vscode/
+.vs/
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.ncb
+*.log
+ipch/
+*.aps
+*.ilk
+*.idb
+*.opendb
+*.obj
+*.pch
+*.pdb
+
+# Build output
+Debug/
+Release/
+x64/
+data str.d87f20e8/
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Temporary files
+*.tmp
+*.log
+*.bak
